@@ -1,0 +1,6 @@
+STABLE_DIFFUSION_INPAINTING = "stability-ai/stable-diffusion-inpainting:95b7223104132402a9ae91cc677285bc5eb997834bd2349fa486f53910fd68b3"
+SDXL = "stability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b"
+STABLE_DUFFUSION = "stability-ai/stable-diffusion:ac732df83cea7fff18b8472768c88ad041fa750ff7682a21affe81863cbe77e4"
+STABLELM_BASE_ALPHA_3D = "stability-ai/stablelm-base-alpha-3b:90202e79dbb2a8fe154c0c0394a413c79965863a860bda2a2ee220c5a840ec50"
+STABLELM_TUNED_ALPHA_7D = "stability-ai/stablelm-tuned-alpha-7b:943c4afb4d0273cf1cf17c1070e182c903a9fe6b372df36b5447cf45935c42f2"
+STABLELM_DIFFUSION_IMG2IMG = "stability-ai/stable-diffusion-img2img:15a3689ee13b0d2616e98820eca31d4c3abcd36672df6afce5cb6feb1d66087d"
